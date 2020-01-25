@@ -1,5 +1,7 @@
 # GatorGrader Sample Laboratory Assignment
 
+[![Build Status](https://travis-ci.org/canance/java-assigment-starter.svg?branch=master)](https://travis-ci.org/canance/java-assigment-starter)
+
 ## Task list for assignment creation
 
 - Use `cp -rf *.*` to copy all of the files and directories in this repository
